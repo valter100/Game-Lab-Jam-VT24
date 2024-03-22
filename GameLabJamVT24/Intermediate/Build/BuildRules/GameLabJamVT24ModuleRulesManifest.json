@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\valte\\Desktop\\Projekt\\Game-Lab-Jam-VT24-UE\\GameLabJamVT24\\Source\\GameLabJamVT24\\GameLabJamVT24.Build.cs",
+		"C:\\Users\\valte\\Desktop\\Projekt\\Game-Lab-Jam-VT24-UE\\GameLabJamVT24\\Source\\GameLabJamVT24.Target.cs",
+		"C:\\Users\\valte\\Desktop\\Projekt\\Game-Lab-Jam-VT24-UE\\GameLabJamVT24\\Source\\GameLabJamVT24Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GameLabJamVT24.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\valte\Desktop\Projekt\Game-Lab-Jam-VT24-UE\GameLabJamVT24\Intermediate\Build\Win64\x64\GameLabJamVT24Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\valte\Desktop\Projekt\Game-Lab-Jam-VT24-UE\GameLabJamVT24\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameLabJamVT24\GameLabJamVT24.cpp.obj"
+"C:\Users\valte\Desktop\Projekt\Game-Lab-Jam-VT24-UE\GameLabJamVT24\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameLabJamVT24\Default.rc2.res"
+/OUT:"C:\Users\valte\Desktop\Projekt\Game-Lab-Jam-VT24-UE\GameLabJamVT24\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameLabJamVT24\UnrealEditor-GameLabJamVT24.lib"

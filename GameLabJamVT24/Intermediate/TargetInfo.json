@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameLabJamVT24",
+			"Path": "..\\Source\\GameLabJamVT24.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameLabJamVT24Editor",
+			"Path": "..\\Source\\GameLabJamVT24Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

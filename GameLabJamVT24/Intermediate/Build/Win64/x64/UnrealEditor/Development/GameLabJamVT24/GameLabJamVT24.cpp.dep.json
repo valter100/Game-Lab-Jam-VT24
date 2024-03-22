@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\valte\\desktop\\projekt\\game-lab-jam-vt24-ue\\gamelabjamvt24\\source\\gamelabjamvt24\\gamelabjamvt24.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\valte\\desktop\\projekt\\game-lab-jam-vt24-ue\\gamelabjamvt24\\intermediate\\build\\win64\\x64\\gamelabjamvt24editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\valte\\desktop\\projekt\\game-lab-jam-vt24-ue\\gamelabjamvt24\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamelabjamvt24\\definitions.gamelabjamvt24.h",
+            "c:\\users\\valte\\desktop\\projekt\\game-lab-jam-vt24-ue\\gamelabjamvt24\\source\\gamelabjamvt24\\gamelabjamvt24.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
